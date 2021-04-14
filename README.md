@@ -2,14 +2,14 @@
   </br>
 
 
-<img align="" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="200" height="200"/>
+<img align="right" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="200" height="200"/>
 </br></br></br>
 ### Here are some ideas to get you started:</br>
-  - 🔭 I’m currently more into the **Development**
-  - 🌱 I’m currently learning **Web development.**
-  - 👯 I’m looking to collaborate on: **Developing new and intriguing open-source projects, with the community, for the community**
-  - 🤔 I’m looking for help with **again Open Source. This is really fun.**
-  - ⚡ Fun fact: **The first message sent over the internet was "LOG". "LOGIN" was the original intended message but the entire system crashed. This was done at MIT.**
+- :telescope: I'm currently studying BTech in CSE 💻;
+- :hourglass_flowing_sand: Learning ML and DL;
+- 💬 I love connecting with different people so if you want any help, I'll be happy to meet you more! :) ;
+- :man_technologist: B.Tech(Computer Science and Engineering), GHRCE; 
+- :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge";
 
 # *I am willing to collaborate as a team player building better code.*
 
