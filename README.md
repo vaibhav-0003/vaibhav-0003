@@ -38,7 +38,7 @@
 
 
 ## &#x1f4c8; GitHub Stats
-<a href="https://github.com/vaibhav-0003/vaibhav-0003">
+<a href="https://github.com/vaibhav-0003/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhadeepCh&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
@@ -52,7 +52,7 @@
   <i>Let's connect and chat! Open to anything under the sun.</i>
 
   <p align="center">
-    <a href="https://twitter.com/whybhavwhy?s=08" alt="Twitter"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/twitter.png" height="30" width="30"></a>&nbsp; &nbsp;
+    
     <a href="https://www.linkedin.com/in/vaibhav-08a8091b3/" alt="Linkedin"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/174857.png" height="30" width="30"></a>&nbsp; &nbsp;
   <a href="https://www.instagram.com/luminousflux.lm/" alt="Facebook"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/instagram-logo-png-transparent-background-hd-3.png" height="30" width="30"></a>&nbsp; &nbsp;
   <a href="mailto:1805719@kiit.ac.in" alt="Contact me"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/gmail-512.webp" height="30" width="30"></a>
