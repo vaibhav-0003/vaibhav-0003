@@ -16,7 +16,8 @@
 </br>
 
 <img align="left" src="https://miraculoussoft.com/wp-content/themes/miraculous/images/mobapp.gif" width="270"> &nbsp; &nbsp; <br>
-
+&nbsp; &nbsp;
+&nbsp; &nbsp;
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
