@@ -5,11 +5,11 @@
 <img align="" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="200" height="200"/>
 </br></br></br>
 ### Here are some ideas to get you started:</br>
-- 🔭 I’m currently more into the **Development**
-- 🌱 I’m currently learning **Web development.**
-- 👯 I’m looking to collaborate on: **Developing new and intriguing open-source projects, with the community, for the community**
-- 🤔 I’m looking for help with **again Open Source. This is really fun.**
-- ⚡ Fun fact: **The first message sent over the internet was "LOG". "LOGIN" was the original intended message but the entire system crashed. This was done at MIT.**
+  - 🔭 I’m currently more into the **Development**
+  - 🌱 I’m currently learning **Web development.**
+  - 👯 I’m looking to collaborate on: **Developing new and intriguing open-source projects, with the community, for the community**
+  - 🤔 I’m looking for help with **again Open Source. This is really fun.**
+  - ⚡ Fun fact: **The first message sent over the internet was "LOG". "LOGIN" was the original intended message but the entire system crashed. This was done at MIT.**
 
 # *I am willing to collaborate as a team player building better code.*
 
@@ -38,7 +38,5 @@
     <a href="https://twitter.com/whybhavwhy?s=08" alt="Twitter"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/twitter.png" height="30" width="30"></a>     
     <a href="https://www.linkedin.com/in/vaibhav-08a8091b3/" alt="Linkedin"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/174857.png" height="30" width="30"></a>
   <a href="https://www.instagram.com/luminousflux.lm/" alt="Facebook"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/instagram-logo-png-transparent-background-hd-3.png" height="30" width="30"></a>
-
-  
-    <a href="mailto:1805719@kiit.ac.in" alt="Contact me"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/gmail-512.webp" height="30" width="30"></a>
+  <a href="mailto:1805719@kiit.ac.in" alt="Contact me"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/gmail-512.webp" height="30" width="30"></a>
     
