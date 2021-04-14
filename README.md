@@ -11,7 +11,9 @@
 - 💬 I love connecting with different people so if you want any help, I'll be happy to meet you more! :)
 - ⚡ Fun fact: **The first message sent over the internet was "LOG". "LOGIN" was the original intended message but the entire system crashed. This was done at MIT.**
 
+<br>
 # *I am willing to collaborate as a team player building better code.*
+<br>
 
 <img align="left" src="https://miraculoussoft.com/wp-content/themes/miraculous/images/mobapp.gif" width="270"> &nbsp; &nbsp; <br>
 
