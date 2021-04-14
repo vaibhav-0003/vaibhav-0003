@@ -19,6 +19,7 @@
 &nbsp; &nbsp;
 &nbsp; &nbsp;
 
+<p align="center">
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
