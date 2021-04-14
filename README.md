@@ -37,14 +37,12 @@
 <br><br><br>
 
 
-[![Github](https://img.shields.io/github/followers/vaibhav-0003?label=Follow&style=social)](https://github.com/vaibhav-0003)
+<img src = "https://github-readme-stats.vercel.app/api?username=vaibhav-0003&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
 
 
 
 <img align="center" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200">
 
-
- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=singhcodes.singhcodes)
 
 
 <p align="center">
