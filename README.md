@@ -37,6 +37,16 @@
 <br><br><br>
 
 
+[![Github](https://img.shields.io/github/followers/vaibhav-0003?label=Follow&style=social)](https://github.com/vaibhav-0003)
+
+
+
+<img align="center" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200">
+
+
+ ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=singhcodes.singhcodes)
+
+
 <p align="center">
   <i>Let's connect and chat! Open to anything under the sun.</i>
 
