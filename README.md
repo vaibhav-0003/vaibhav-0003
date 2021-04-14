@@ -65,7 +65,6 @@
   <i>Let's connect and chat! Open to anything under the sun.</i>
 
   <p align="center">
-    
    <a href="https://www.linkedin.com/in/vaibhav-08a8091b3/" alt="Linkedin"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/174857.png" height="30" width="30"></a>&nbsp; &nbsp;
   <a href="https://www.instagram.com/luminousflux.lm/" alt="Facebook"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/instagram-logo-png-transparent-background-hd-3.png" height="30" width="30"></a>&nbsp; &nbsp;
   <a href="mailto:1805719@kiit.ac.in" alt="Contact me"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/gmail-512.webp" height="30" width="30"></a>
