@@ -4,11 +4,11 @@
 <img align="right" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="200" height="200"/>
 
 ### Here are some ideas to get you started:</br>
-- 🔭 I’m currently more into the **Programming**
-- 🌱 I’m currently learning **Open Source Contribution.**
-- 👯 I’m looking to collaborate on: **Developing new and intriguing open-source projects, with the community, for the community**
-- 🤔 I’m looking for help with **again Open Source. This is really fun.**
-- 💬 Ask me about **Technology, Aviation, Troubleshooting, Psychology, Neuroscience, History, Nature.**
+- 🔭 I'm currently studying BTech in CSE 💻
+- 🌱 I’m currently learning Learning ML and Project Management;
+- 👯 I’m looking to collaborate on: **Web Development and Machine Learning Projects**
+- :man_technologist: B.Tech(Computer Science and Engineering), KKIT-DU
+- 💬 I love connecting with different people so if you want any help, I'll be happy to meet you more! :)
 - ⚡ Fun fact: **The first message sent over the internet was "LOG". "LOGIN" was the original intended message but the entire system crashed. This was done at MIT.**
 
 # *I am willing to collaborate as a team player building better code.*
