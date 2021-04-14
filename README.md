@@ -4,10 +4,9 @@
 <img align="right" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="200" height="200"/>
 
 ### Here are some ideas to get you started:</br>
-- 🔭 I'm currently studying BTech in CSE 💻
+- :man_technologist: I'm currently studying B.Tech in CSE, KIIT-DU 💻
 - 🌱 I’m currently learning Learning ML and Project Management;
 - 👯 I’m looking to collaborate on: **Web Development and Machine Learning Projects**
-- :man_technologist: B.Tech(Computer Science and Engineering), KKIT-DU
 - 💬 I love connecting with different people so if you want any help, I'll be happy to meet you more! :)
 - ⚡ Fun fact: **The first message sent over the internet was "LOG". "LOGIN" was the original intended message but the entire system crashed. This was done at MIT.**
 </br>
