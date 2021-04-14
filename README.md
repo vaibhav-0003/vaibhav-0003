@@ -4,12 +4,12 @@
 
 <img align="right" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="200" height="200"/>
 </br></br></br>
-### Here are some ideas to get you started:</br>
-- :telescope: I'm currently studying BTech in CSE 💻;
-- :hourglass_flowing_sand: Learning ML and DL;
-- 💬 I love connecting with different people so if you want any help, I'll be happy to meet you more! :) ;
-- :man_technologist: B.Tech(Computer Science and Engineering), GHRCE; 
-- :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge";
+### *Here are some ideas to get you started:* </br>
+ :telescope: I'm currently studying BTech in CSE 💻</br>
+ :hourglass_flowing_sand: Learning ML and DL</br>
+ 💬 I love connecting with different people so if you want any help, I'll be happy to meet you more! :) </br>
+ :man_technologist: B.Tech(Computer Science and Engineering), GHRCE</br> 
+ :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"</br>
 
 # *I am willing to collaborate as a team player building better code.*
 
