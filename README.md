@@ -13,8 +13,8 @@
 
 # *I am willing to collaborate as a team player building better code.*
 
-<img align="right" src="https://miraculoussoft.com/wp-content/themes/miraculous/images/mobapp.gif" width="270"> <br>
-<br> <br> <br>
+<img align="left" src="https://miraculoussoft.com/wp-content/themes/miraculous/images/mobapp.gif" width="270"> <br>
+
 
 ### I know more about- </br>
 ![C](https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=C)
