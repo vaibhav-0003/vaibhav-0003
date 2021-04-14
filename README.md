@@ -13,7 +13,7 @@
 
 # *I am willing to collaborate as a team player building better code.*
 
-<img align="left" src="https://miraculoussoft.com/wp-content/themes/miraculous/images/mobapp.gif" width="270"> <br>
+<img align="left" src="https://miraculoussoft.com/wp-content/themes/miraculous/images/mobapp.gif" width="270"> &nbsp; &nbsp; <br>
 
 
 ### I know more about- </br>
@@ -31,6 +31,7 @@
 ![Linux](http://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue)
 </br></br></br></br>
+<br><br><br>
 
 
 <p align="center">
