@@ -1,4 +1,4 @@
-### Hi there 👋🏻, I'm Vaibhav!
+### Hello, folks! <img align="center" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" align='center'>🏻 I'm Vaibhav!
   </br>
 
 <img align="right" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="200" height="200"/>
