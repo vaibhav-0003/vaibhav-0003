@@ -4,7 +4,7 @@
 <img align="right" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="200" height="200"/>
 
 
-http://helpindiacovid19.herokuapp.com/others
+http://helpindiacovid19.herokuapp.com/
 ### Here are some ideas to get you started:</br>
 - :man_technologist: I'm currently studying B.Tech in CSE, KIIT-DU 💻
 - 🌱 I’m currently learning Learning ML and Project Management;
